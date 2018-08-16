@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\bin\Debug\Doorphone.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\bin\Debug\Doorphone.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\bin\Debug\Doorphone.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.pdb
+E:\c пк\Projects\С#\Doorphone\Doorphone\bin\Debug\Doorphone.exe.config
+E:\c пк\Projects\С#\Doorphone\Doorphone\bin\Debug\Doorphone.exe
+E:\c пк\Projects\С#\Doorphone\Doorphone\bin\Debug\Doorphone.pdb
+E:\c пк\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.csprojAssemblyReference.cache
+E:\c пк\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.csproj.CoreCompileInputs.cache
+E:\c пк\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.exe
+E:\c пк\Projects\С#\Doorphone\Doorphone\obj\Debug\Doorphone.pdb
